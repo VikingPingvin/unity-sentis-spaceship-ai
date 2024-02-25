@@ -67,4 +67,9 @@ crashlytics-build.properties
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
-/[Aa]ssets/[Ss]treamingAssets/*
+/[Aa]ssets/StreamingAssets/*
+
+/[Ll]ogs/
+/[Aa]ssets/Samples/
+/[Ll]ibrary/
+*.sentis
